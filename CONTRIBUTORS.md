@@ -1,5 +1,7 @@
 # CONTRIBUTORS
--[@gi-corp](https://github.com/GI-Corp)
+- [@aatharvauti](https://github.com/aatharvauti) 
+
+- [@gi-corp](https://github.com/GI-Corp)
 
 - [@arpitmalik832](https://github.com/arpitmalik832/)
 
